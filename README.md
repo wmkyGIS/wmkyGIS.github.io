@@ -1,2 +1,0 @@
-# wmkyGIS.github.io
-GIS
