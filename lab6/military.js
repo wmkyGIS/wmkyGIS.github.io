@@ -1,4 +1,4 @@
-var = military {
+var military = {
 "type": "FeatureCollection",
 "name": "Layer",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4269" } },
