@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		
+		<title>Lab 6 | D3</title>
+		
+		<script src="https://d3js.org/d3.v5.min.js" charset="utf-8"></script>
+		
+		<script src="https://wmkyGIS.github.io/lab6/lnkrds.js"></script>
+		<script src="https://wmkyGIS.github.io/lab6/area.js"></script>
+		<script src="https://wmkyGIS.github.io/lab6/military.js"></script>
+		<script src="https://wmkyGIS.github.io/lab6/aviation.js"></script>
+		<script src="https://wmkyGIS.github.io/lab6/point.js"></script>
+
+		<style>
+			body {
+				position: absolute;
+				font-family: "Proxima Nova", "Montserrat", sans-serif;
+			}
+
+			h1, h2 {
+				position: absolute;
+				background: white;
+				left: 10px;
+				font-size: 1.3em;
+				font-weight: 100;
+			}
+
+			h2 {
+				top: 30px;
+				font-size: 1em; 
+			}
+
+			.hover {
+				fill: yellow;
+			}
+
+		</style>
+		
+	</head>
+		
+	<body>
+
+		<h1>Historic Sites of Aviation in Lincoln</h1>
+		
+		<script>
+		//we will be putting our D3 code here within body script tags
+		var width = 1000;
+		var height = 600;
+
+		var lowColor = '#bc2a66'
+		var highColor = '#f9f9f9'
+
+		var minVal = 1900
+		var maxVal = 2020
+
+		var ramp = d3.scaleLinear().domain([minVal, maxVal]).range([lowColor, highColor]);
+
+
+
+		
+		//create the SVG
+		var svg = d3.select("body")
+		.append("svg")
+		.attr("width", width)
+		.attr("height", height);
+
+
+		//Append empty placeholder "g" element to the SVG
+		//"g" will contain geometry elements 
+		var g = svg.append("g"); 
+
+		//Set Projection Parameters
+		var albersProjection = d3.geoAlbers()
+			.scale(285000)
+			.rotate([96.763794, 0])
+			.center([0, 40.850493])
+			.translate([width/2, height/2])
+
+		// Create GeoPath function to turn lat/lon into screen coordinates
+		var geoPath = d3.geoPath()
+			.projection(albersProjection);
+
+		g.selectAll ("path")
+			.data(lnkrds.features)
+			.enter()
+			.append("path")
+			.attr("fill", "#ccc")
+			.attr("stroke", "#333")
+			.attr("d", geoPath); 
+
+		
+
+		var areas = svg.append( "g" );
+
+		areas.selectAll ( "path" )
+			.data(area.features)
+			.enter()
+			.append("path")
+			.attr("fill", function(d){return ramp(d.properties.ALAND)})
+			.attr("stroke", "#999")
+			.attr("d", geoPath)
+			.attr("class", "buildingdata")
+		.on("mouseover", function(d){ 
+
+			d3.select("h2").text("Built in" + d.properties.ALAND);
+				d3.select(this).attr("class", "buildingdata hover");
+			})
+
+		.on("mouseout", function(d){
+					d3.select("h2").text("");
+					d3.select(this).attr("class", "buildingdata");
+			});
+			
+
+		
+
+		var militaries = svg.append( "g" );
+
+		militaries.selectAll ( "path" )
+			.data(military.features)
+			.enter()
+			.append("path")
+			.attr("fill", function(d){return ramp(d.properties.SHAPE_Leng)})
+			.attr("stroke", "#920")
+			.attr("d", geoPath)
+			.attr("class", "buildingdata")
+		.on("mouseover", function(d){
+
+			//populate h2 with "built in" & the year built field from the json
+
+			d3.select("h2").text("Built in" + d.properties.ALAND);
+				d3.select(this).attr("class", "buildingdata hover");
+			})
+
+			//here, D3 to replace text interactively based on building data
+
+			.on("mouseout", function(d){
+					d3.select("h2").text("");
+					d3.select(this).attr("class", "buildingdata");
+			});
+		
+
+		var lincolnAviation = svg.append( "g" );
+
+		lincolnAviation.selectAll ( "path" )
+			.data(aviation.features)
+			.enter()
+			.append("path")
+			.attr("fill", "#920")
+			.attr("stroke", "#999")
+			.attr("d", geoPath)
+			.attr("class", "buildingdata")
+		.on("mouseover", function(d){
+
+			//populate h2 with "built in" & the year built field from the json
+
+			d3.select("h2").text("Built in" + d.properties.name);
+				d3.select(this).attr("class", "buildingdata hover");
+			})
+
+			//here, D3 to replace text interactively based on building data
+
+			.on("mouseout", function(d){
+					d3.select("h2").text("");
+					d3.select(this).attr("class", "buildingdata");
+			});
+
+		var pointLNK = svg.append( "g" );
+
+		pointLNK.selectAll ( "path" )
+			.data(point.features)
+			.enter()
+			.append("path")
+			.attr("fill", function(d){return ramp(d.properties.coordinates)})
+			.attr("stroke", "#999")
+			.attr("d", geoPath)
+			.attr("class", "buildingdata")
+		.on("mouseover", function(d){
+
+			//populate h2 with "built in" & the year built field from the json
+
+			d3.select("h2").text("Built in" + d.properties.name);
+				d3.select(this).attr("class", "buildingdata hover");
+			})
+
+			//here, D3 to replace text interactively based on building data
+
+			.on("mouseout", function(d){
+					d3.select("h2").text("");
+					d3.select(this).attr("class", "buildingdata");
+			});
+
+
+		</script>
+	
+	</body>
+</html>
