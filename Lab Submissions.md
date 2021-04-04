@@ -9,7 +9,7 @@
 - [x] [Lab 6](wmkyGIS.github.io/lab6/)
     - [x]  [Aging Lincoln Homes w/ Time Slider Extra Credit](wmkyGIS.github.io/lab6/6_2index.html)
     - [x]  [Create Your Own Map](wmkygis.github.io/lab6/CYOmap_index.html)
-- [ ] [Lab 7]
+- [x] [Lab 7](wmkyGIS.github.io/lab7/index.html)
 - [ ] [Lab 8]
 - [ ] [Final Project]
 
