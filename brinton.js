@@ -1,6 +1,6 @@
 var brinton = {
 "type": "FeatureCollection",
-"name": "brinton",
+"name": "brintonData",
 "features": [
 { "type": "Feature", "properties": { "name": "Masonic Opera House: What Cheer, IA", "latitude": "41.401397", "longitude": "-92.354629", "time": "1\/1\/04" }, "geometry": null },
 { "type": "Feature", "properties": { "name": "Masonic Opera House: What Cheer, IA", "latitude": "41.401397", "longitude": "-92.354629", "time": "1\/2\/04" }, "geometry": null },
