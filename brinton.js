@@ -1,8 +1,4 @@
-var brinton = {
-"type": "FeatureCollection",
-"name": "brinton_Data",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
+var brinton =[
 { "type": "Feature", "properties": { "name": "Masonic Opera House: What Cheer, IA", "latitude": 41.401397, "longitude": -92.354629, "time": "1\/1\/04" }, "geometry": { "type": "Point", "coordinates": [ -92.354629, 41.401397 ] } },
 { "type": "Feature", "properties": { "name": "Masonic Opera House: What Cheer, IA", "latitude": 41.401397, "longitude": -92.354629, "time": "1\/2\/04" }, "geometry": { "type": "Point", "coordinates": [ -92.354629, 41.401397 ] } },
 { "type": "Feature", "properties": { "name": "Montezuma Opera House: Montezuma, IA", "latitude": 41.584878, "longitude": -92.527431, "time": "1\/4\/04" }, "geometry": { "type": "Point", "coordinates": [ -92.527431, 41.584878 ] } },
@@ -1288,4 +1284,3 @@ var brinton = {
 { "type": "Feature", "properties": { "name": "Opera House", "latitude": 41.178903, "longitude": -92.251849, "time": "12\/17\/08" }, "geometry": { "type": "Point", "coordinates": [ -92.251849, 41.178903 ] } },
 { "type": "Feature", "properties": { "name": "Opera House", "latitude": 41.198372, "longitude": -92.093089, "time": "12\/18\/08" }, "geometry": { "type": "Point", "coordinates": [ -92.093089, 41.198372 ] } }
 ]
-}
