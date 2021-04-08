@@ -13,6 +13,6 @@
     - [x] [Part I](https://wmkyGIS.github.io/lab7/index.html)
     - [x] [Part II](https://wmkyGIS.github.io/lab7/index2.html)
     - [x] [Part II - Extra Credit](https://wmkygis.github.io/lab7/index2.2.html)
-- [ ] [Lab 8](https://wmkygis.github.io/lab8/index.html)
+- [x] [Lab 8](https://wmkygis.github.io/lab8/index.html)
 - [ ] [Final Project]
 
