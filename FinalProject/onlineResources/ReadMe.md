@@ -8,4 +8,6 @@
 
 [Lincoln Air Force Base Legacy Project](https://www.lincolnafb.org/history.php)
 
+[Lincoln Air Force Base Legacy Project - Google MyMaps](https://www.google.com/maps/d/viewer?mid=1Sv0qX7_t4k3D7KSniMrMzaWNyvoe_X5e&ll=40.86446815314296%2C-96.78195968084216&z=12)
+
 [Aviation Development in Nebraska](https://archive.org/details/AviationDevelopmentNeb)
