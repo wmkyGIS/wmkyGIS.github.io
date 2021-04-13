@@ -1,9 +1,5 @@
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
+var data = [
+      {
         "stroke": "#1e00ff",
         "stroke-width": 5,
         "stroke-opacity": 0.5,
