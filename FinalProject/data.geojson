@@ -431,10 +431,11 @@
         "stroke-opacity": 1,
         "fill": "#1e00ff",
         "fill-opacity": 0.5,
-        "name": "Airfield where Lindbergh learned to fly",
-        "startDate": "",
-        "endDate": "",
-        "photo": ""
+        "name": "Page Field",
+        "startDate": 1921,
+        "endDate": 1932,
+        "photo": "",
+        "description": " Where Lindbergh learned to fly in 1922; Service site for trans-continental airmail route"
       },
       "geometry": {
         "type": "Polygon",
