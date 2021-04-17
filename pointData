@@ -1,0 +1,269 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fff700",
+        "marker-size": "medium",
+        "marker-symbol": "airport",
+        "name": "Lincoln Municipal Airport",
+        "description": "",
+        "address": "2400 W Adams St, Lincoln, NE 68524",
+        "startDate": 1928,
+        "endDate": "Present",
+        "photo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.75556182861328,
+          40.85066372436894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "land-use",
+        "marker-color": "#46ff00",
+        "name": "Huskerville",
+        "description": "",
+        "address": "",
+        "startDate": "",
+        "endDate": "Present"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.79349899291992,
+          40.8603691199945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#46ff00",
+        "marker-size": "medium",
+        "marker-symbol": "land-use",
+        "name": "Bowling Lake",
+        "description": "",
+        "address": "NW 44th and Cuming St., Lincoln, NE, 68524",
+        "startDate": 1957,
+        "endDate": "Present",
+        "photo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.78467988967896,
+          40.86621114743755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fff700",
+        "marker-size": "medium",
+        "marker-symbol": "airport",
+        "name": "Lincoln Army Airfield/Lincoln Air Force Base",
+        "description": "Cold War-era Main Gate ",
+        "address": "Between present-day NW 48th and NW 47th Streets",
+        "startDate": 1952,
+        "endDate": "c.1963",
+        "photo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.78662717342377,
+          40.85273313784536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#46ff00",
+        "marker-size": "medium",
+        "marker-symbol": "land-use",
+        "name": "Former Nebraska State Fairgrounds",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6932487487793,
+          40.83524253023701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "airport",
+        "name": "Harding, Zook, and Bahl",
+        "description": "",
+        "address": "107 N. 9th St., Lincoln, NE, 68508",
+        "startDate": 1919,
+        "endDate": "c.1921"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.70893967151642,
+          40.813968585103105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "airport",
+        "name": "Lincoln Airplane and Flying School",
+        "description": "",
+        "address": "2409 \"O\" St., Lincoln, NE, 68510",
+        "startDate": 1919,
+        "endDate": "c.1930s (Great Depression)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.68633669614792,
+          40.813390034969004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "airport",
+        "name": "Arrow Aircraft Factory",
+        "description": "",
+        "address": "4021 N. 56th St., Havelock, Lincoln, NE, 68504",
+        "startDate": 1929,
+        "endDate": "c.1940s",
+        "photo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6457414627075,
+          40.85361769094577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fff700",
+        "marker-size": "medium",
+        "marker-symbol": "airport",
+        "name": "Arrow Aircraft Airfield",
+        "description": "",
+        "address": "40.870000, -96.654444",
+        "startDate": "c.1928",
+        "endDate": "Unknown",
+        "photo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6537880897522,
+          40.87054365162727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fff700",
+        "marker-size": "medium",
+        "marker-symbol": "airport",
+        "name": "Union Airport",
+        "description": "320-acre airport closed in 1964; was home to Lincoln Airplane and Flying School by 1939.",
+        "address": "North of Fletcher Ave., between N 70th St. and US Hwy 77",
+        "startDate": 1930,
+        "endDate": 1964,
+        "photo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.63368225097656,
+          40.881138431863725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fff700",
+        "marker-size": "medium",
+        "marker-symbol": "airport",
+        "name": "Pester Airport",
+        "description": "Dr. Charles E. Carothers, dentist and aerial acrobat, crashed his plan here in November 1985. He later died in early 1986of the severe injuries he suffered from the crash.",
+        "address": "",
+        "startDate": "",
+        "endDate": "",
+        "photo": "",
+        "source": "Carothers' obituary from Lincoln Journal Star, Friday, 03 January 1986, p. 7."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.57235622406006,
+          40.825955617503844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fff700",
+        "marker-size": "medium",
+        "marker-symbol": "airport",
+        "name": "Lincoln Aircraft airfield",
+        "description": "",
+        "address": "",
+        "startDate": "",
+        "endDate": "",
+        "photo": "",
+        "source": "Goeres, Wings Over Nebraska, p.49"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.69977188110352,
+          40.750345578879504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fff700",
+        "marker-size": "medium",
+        "marker-symbol": "airport",
+        "name": "Page Field",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6895043849945,
+          40.78059830022966
+        ]
+      }
+    }
+  ]
+}
