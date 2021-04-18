@@ -264,6 +264,50 @@
           40.78059830022966
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fff700",
+        "marker-size": "medium",
+        "marker-symbol": "airport",
+        "name": "Ak-Sar-Ben Field",
+        "description": "\"Ak-Sar-Ben Field, whose hangars were located on the southeastern corner of these grounds, was used extensively during the early development of U.S. Postal Air Mail Service. Ray Benedict landed here with the first airmail from Chicago on May 15, 1920 and William DeWald piloted the return flight the same day. The Omaha-San Francisco leg of the transcontinental route was opened by Pilot Buck Heforn the following September. Daytime airmail service from New York to San Francisco began on September 8, 1920 and the first shipment from the east was flown into Omaha by James Murray. Although the early airmail flights took place during daylight hours, the feasibility of night flying was soon explored. On February 22, 1921, Jack Knight took off from the North Platte, Nebraska, airfield on the first night airmail flight in the United States. He landed here at Ak-Sar-Ben Field before continuing on to Chicago. The efforts of these pioneer aviators led to the inauguration, on July 1, 1924, of day-night airmail service from coast to coast. In September 1974 the Air Mail Pioneers of America met in Omaha to observe the 50th Anniversary of this significant event in aviation history.\"",
+        "address": "1110 South 67th St., Douglas County, Omaha, NE, 68182",
+        "startDate": 1920,
+        "source": "“Ak-Sar-Ben Field and the U.S. Air Mail,” Explore Nebraska History, accessed April 18, 2021, https://mynehistory.com/items/show/178.",
+        "endDate": "Unknown",
+        "photo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.01590514183044,
+          41.24152529030956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fff700",
+        "marker-size": "medium",
+        "marker-symbol": "airport",
+        "name": "Offutt Air Force Base",
+        "description": "“Fort Crook became home to 61st Balloon Company…the airfield portion…was designated Offutt Field…in honor of 1st Lt. Jarvis J. Offutt [who] was killed while flying with the Royal Air Force in France and was Omaha’s first World War I air casualty.”",
+        "address": "55th Wing Public Affairs Division 109 Washington Square, Suite 21 Offutt AFB, NE 68113",
+        "startDate": 1924,
+        "endDate": "Present",
+        "photo": "",
+        "source": "Kooiman, Aviation Development in Nebraska (2000)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.90927124023438,
+          41.11583136545
+        ]
+      }
     }
   ]
 }
