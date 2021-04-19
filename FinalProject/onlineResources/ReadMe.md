@@ -15,4 +15,8 @@
 [Aviation Corps of the Nebraska National Guard - 1915-1917](https://www.ang.af.mil/Portals/77/documents/history/references/AFD-100203-004.pdf?ver=2016-09-20-085109-860)
 
 History Nebraska Collections via Search Terms 
-[Lincoln Airplane and Flying School](https://nebraskahistory.pastperfectonline.com/bysearchterm?keyword=Lincoln+Airplane+and+Flying+School+%28Lincoln%2C+Nebraska%29)
+- [Lincoln Airplane and Flying School](https://nebraskahistory.pastperfectonline.com/bysearchterm?keyword=Lincoln+Airplane+and+Flying+School+%28Lincoln%2C+Nebraska%29)
+- [Lincoln Primary Flying School [RG1610.AM]](https://history.nebraska.gov/collections/lincoln-primary-flying-school-rg1610am)
+
+Smithsonian National Air and Space Museum
+- [Nebraska, Union Airport, Lincoln - Drawer F4, Folder 527700-01](https://airandspace.si.edu/collection-archive-item/nebraska-lincoln-union-airport/sova-nasm-xxxx-1183-f-ref8302)
