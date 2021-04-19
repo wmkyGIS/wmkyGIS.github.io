@@ -31,7 +31,7 @@
         "name": "Huskerville",
         "description": "",
         "address": "",
-        "startDate": "",
+        "startDate": 1946,
         "endDate": "Present"
       },
       "geometry": {
