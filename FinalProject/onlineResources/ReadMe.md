@@ -13,3 +13,6 @@
 [Aviation Development in Nebraska](https://archive.org/details/AviationDevelopmentNeb)
 
 [Aviation Corps of the Nebraska National Guard - 1915-1917](https://www.ang.af.mil/Portals/77/documents/history/references/AFD-100203-004.pdf?ver=2016-09-20-085109-860)
+
+History Nebraska Collections via Search Terms 
+[Lincoln Airplane and Flying School](https://nebraskahistory.pastperfectonline.com/bysearchterm?keyword=Lincoln+Airplane+and+Flying+School+%28Lincoln%2C+Nebraska%29)
