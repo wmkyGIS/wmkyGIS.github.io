@@ -22,3 +22,6 @@ History Nebraska Collections via Search Terms
 
 Smithsonian National Air and Space Museum
 - [Nebraska, Union Airport, Lincoln - Drawer F4, Folder 527700-01](https://airandspace.si.edu/collection-archive-item/nebraska-lincoln-union-airport/sova-nasm-xxxx-1183-f-ref8302)
+
+Library of Congress
+- [Lincoln Sectional Charts](https://www.loc.gov/resource/g3701pm.gct00089/?c=150&sp=23&st=list)
