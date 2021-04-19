@@ -27,4 +27,4 @@ Library of Congress
 - [Lincoln Sectional Charts](https://www.loc.gov/resource/g3701pm.gct00089/?c=150&sp=23&st=list)
 
 USGS Historical Topo Maps 
-[Lincoln, 1964](https://ngmdb.usgs.gov/topoview/viewer/#11/40.8681/-96.7370)
+- [Lincoln, 1964](https://ngmdb.usgs.gov/topoview/viewer/#11/40.8681/-96.7370)
