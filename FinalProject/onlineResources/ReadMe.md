@@ -1,3 +1,5 @@
+[Abandoned Airfields](http://www.airfields-freeman.com/NE/Airfields_NE_NE.htm)
+
 [Airway Bulletin, Hathi Trust](https://catalog.hathitrust.org/Record/009945721)
 - #191, September 10, 1927
 - Airway Bulletin no. 1-200 1927, Item #: 465
