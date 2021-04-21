@@ -49,12 +49,12 @@
         "marker-size": "medium",
         "marker-symbol": "land-use",
         "name": "Bowling Lake",
-        "description": "—“Dug out by Air Force volunteers in the late 1950s, this lake served as a recreational area for airmen and their families that was closer to the base than similar venues in the city.” ",
+        "description": "The northeast portion of Lincoln Air Force Base was transformed from a “dump” into a spot of “beauty” in the late 1950s. Air base officials billed the project as a Cold War necessity. While under construction, newspapers constantly reported Bowling Lake’s dual purpose: “[T]he recreation area is to provide on-base recreation and to aid in the retention of high skilled airmen, base officials say…Brig. Gen. Perry M. Hoisington II, 818th Air Division Commander, said the areas are needed due to the SAC [Strategic Air Command] alert concept which requires the men be constantly ready in the case of aggression.” Upon its completion in 1958, Bowling Lake hosted a star-studded “christening” ceremony, a four-day “Aqua-Air Show” extravaganza, and a solemn ceremony where the statue of Capt. Russell Bowling was unveiled by his family. ",
         "address": "NW 44th and Cuming St., Lincoln, NE, 68524",
         "startDate": 1957,
         "endDate": "Present",
         "photo": "",
-        "source": "https://www.lincolnafb.org/BowlingLake.php"
+        "source": "https://www.lincolnafb.org/BowlingLake.php; “Show Will Kickoff Dedication of Lake” Lincoln Sunday Journal and Star, 13 April 1958; “More or Less Personal,” Lincoln Evening Journal and Nebraska State Journal, 09 June 1958"
       },
       "geometry": {
         "type": "Point",
@@ -94,7 +94,8 @@
         "name": "Former Nebraska State Fairgrounds",
         "description": "– Biplanes were constructed and air shows conducted on these grounds throughout the 20th century – Former headquarters of Nebraska Aviation Corps, organized in Lincoln in July 1915 // \"Their early maneuvers included the experimental dropping of bombs from the flying airplanes.\" – Lincoln Standard Aircraft Company manufactured planes in the Industrial Arts Building here starting in 1919",
         "startDate": 1901,
-        "endDate": 2009
+        "endDate": 2009,
+        "address": ""
       },
       "geometry": {
         "type": "Point",
@@ -131,7 +132,7 @@
         "marker-size": "medium",
         "marker-symbol": "airport",
         "name": "Lincoln Airplane and Flying School",
-        "description": "",
+        "description": "03/31/1930: the Lincoln Airplane and Flying School was officially approved by the US Department of Commerce: Aeronautics Branch. The Lincoln Airplane and Flying School operated out of two locations: the recently constructed municipal airport housed the flight training program, while mechanics training took place at the company’s headquarters in downtown Lincoln (pictured below at 2409 “O” Street).  The school briefly provided flight instruction to army cadets in 1939, before the Army Air Corps ¬– deterred by a particularly harsh Nebraska winter – opted to move the training program to Lakeland, Florida, the following fall. The facility closed in 1945, but the mantle of flight instruction in Lincoln was quickly taken up by other aviation-minded entrepreneurs.",
         "address": "2409 \"O\" St., Lincoln, NE, 68510",
         "startDate": 1919,
         "endDate": "c.1930s (Great Depression)"
