@@ -6,7 +6,7 @@ var point = [
         "marker-size": "medium",
         "marker-symbol": "airport",
         "name": "Lincoln Municipal Airport",
-        "description": "– Tract chosen in 1928; construction completed in 1929; dedication in 1930 – Modern facility constructed in 1974",
+        "description": "Tract chosen in 1928; construction completed in 1929; dedication in 1930 – Modern facility constructed in 1974",
         "address": "2400 W Adams St, Lincoln, NE 68524",
         "startDate": 1928,
         "endDate": "Present",
