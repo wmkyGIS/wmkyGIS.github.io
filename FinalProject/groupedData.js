@@ -36,7 +36,7 @@ var data = [
         "startDate": 1919,
         "endDate": 1921,
         "photo": "",
-        "source": "\"University Students Will Build Airplanes,\" The Daily Nebraskan, 02 February 1920; \"Dean Engberg Looks Down Upon University,\" The Daily Nebraskan, 21 May 1920.",
+        "source": "�University Students Will Build Airplanes,� The Daily Nebraskan, 02 February 1920; �Dean Engberg Looks Down Upon University,� The Daily Nebraskan, 21 May 1920.",
         "": ""
       },
       "geometry": {
@@ -84,7 +84,7 @@ var data = [
         "startDate": 1920,
         "endDate": 1935,
         "photo": "",
-        "source": "\"Ak-Sar-Ben Field and the U.S. Air Mail,\" Explore Nebraska History, accessed April 18, 2021, https://mynehistory.com/items/show/178.",
+        "source": "�Ak-Sar-Ben Field and the U.S. Air Mail,� Explore Nebraska History, accessed April 18, 2021, https://mynehistory.com/items/show/178.",
         "": ""
       },
       "geometry": {
@@ -276,7 +276,7 @@ var data = [
         "startDate": 1946,
         "endDate": "Present",
         "photo": "",
-        "source": "(\"They are Moving In,\" The Nebraska State Journal, Lincoln, Nebraska, 15 Sept. 1946, p. 3); (LJS, 03 Oct. 1946); (Breanna Fanta, \"1952 Huskerville Polio Outbreak,\" History Nebraska). ",
+        "source": "(�They are Moving In,� The Nebraska State Journal, Lincoln, Nebraska, 15 Sept. 1946, p. 3); (LJS, 03 Oct. 1946); (Breanna Fanta, �1952 Huskerville Polio Outbreak,� History Nebraska). ",
         "": ""
       },
       "geometry": {
@@ -300,7 +300,7 @@ var data = [
         "startDate": 1952,
         "endDate": 1966,
         "photo": "",
-        "source": "Branting, Lincoln Air Force Base Legacy Project; Branting, A Mighty Force for Peace, pp. 9-34; \"Officials welcome Offutt planes to 'temporary home, 'Lincoln Air Force Base'\", Lincoln Journal Star, 16 April 2021. ",
+        "source": "Branting, Lincoln Air Force Base Legacy Project; Branting, A Mighty Force for Peace, pp. 9-34; �Officials welcome Offutt planes to temporary home � �Lincoln Air Force Base�,� Lincoln Journal Star, 16 April 2021. ",
         "": ""
       },
       "geometry": {
@@ -324,7 +324,8 @@ var data = [
         "startDate": 1957,
         "endDate": "Present",
         "photo": "",
-        "source": "https://www.lincolnafb.org/BowlingLake.php; \"Show Will Kickoff Dedication of Lake\" Lincoln Sunday Journal and Star, 13 April 1958; \"More or Less Personal,\" Lincoln Evening Journal and Nebraska State Journal, 09 June 1958"
+        "source": "https://www.lincolnafb.org/BowlingLake.php; �Show Will Kickoff Dedication of Lake� Lincoln Sunday Journal and Star, 13 April 1958; �More or Less Personal,� Lincoln Evening Journal and Nebraska State Journal, 09 June 1958",
+        "": ""
       },
       "geometry": {
         "type": "Point",
