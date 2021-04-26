@@ -6,7 +6,7 @@ var data = [
         "marker-size": "medium",
         "marker-symbol": "land-use",
         "name": "Former Nebraska State Fairgrounds",
-        "description": "Biplanes were constructed and air shows conducted on these grounds throughout the 20th century � Former headquarters of Nebraska Aviation Corps, organized in Lincoln in July 1915 // \"Their early maneuvers included the experimental dropping of bombs from the flying airplanes.\" � Lincoln Standard Aircraft Company manufactured planes in the Industrial Arts Building here starting in 1919",
+        "description": "Biplanes – aircraft with two fixed wings, one above the other – were manufactured in the Industrial Arts Building starting in 1919 at the Nebraska State Fairgrounds. The site also served as the former headquarters of the Nebraska Aviation Corps, which was organized in Lincoln around 1915. Among the various military exercises, servicemen practiced dropping (fake) bombs from flying airplanes. Active between 1901 and 2009, the Nebraska State Fairgrounds in Lincoln also hosted numerous flying shows during its many state fairs. Today, the University of Nebraska-Lincoln’s Innovation Campus is at this location.",
         "use": "landUse",
         "address": "40.835189, -96.694470",
         "startDate": 1901,
@@ -36,7 +36,7 @@ var data = [
         "startDate": 1919,
         "endDate": 1921,
         "photo": "",
-        "source": "�University Students Will Build Airplanes,� The Daily Nebraskan, 02 February 1920; �Dean Engberg Looks Down Upon University,� The Daily Nebraskan, 21 May 1920.",
+        "source": "'University Students Will Build Airplanes' The Daily Nebraskan, 02 February 1920; �Dean Engberg Looks Down Upon University,� The Daily Nebraskan, 21 May 1920.",
         "": ""
       },
       "geometry": {
@@ -359,3 +359,4 @@ var data = [
       }
     }
   ]
+}
