@@ -178,7 +178,7 @@ var data = [
         "use": "airport",
         "address": "2400 W Adams St, Lincoln, NE 68524",
         "endDate": "Present",
-        "photo": "",
+        "photo": "https://s3.amazonaws.com/pastperfectonline/images/museum_184/035/107551.jpg",
         "source": "",
         "": "",
         "time": "1928"
