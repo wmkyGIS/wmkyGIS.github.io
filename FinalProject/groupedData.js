@@ -13,7 +13,7 @@ var data = [
         "photo": "",
         "source": "Goeres; Kooiman. ",
         "": "",
-        "time": 1901
+        "time": "\"1901\""
       },
       "geometry": {
         "type": "Point",
@@ -37,7 +37,7 @@ var data = [
         "photo": "",
         "source": "'University Students Will Build Airplanes' The Daily Nebraskan, 02 February 1920; �Dean Engberg Looks Down Upon University,� The Daily Nebraskan, 21 May 1920.",
         "": "",
-        "time": 1919
+        "time": "\"1919\""
       },
       "geometry": {
         "type": "Point",
@@ -61,7 +61,7 @@ var data = [
         "photo": "",
         "source": "Goeres, Wings Over Nebraska, p.49",
         "": "Goeres, Wings Over Nebraska. ",
-        "time": 1919
+        "time": "\"1919\""
       },
       "geometry": {
         "type": "Point",
@@ -85,7 +85,7 @@ var data = [
         "photo": "",
         "source": "�Ak-Sar-Ben Field and the U.S. Air Mail,� Explore Nebraska History, accessed April 18, 2021, https://mynehistory.com/items/show/178.",
         "": "",
-        "time": 1920
+        "time": "\"1920\""
       },
       "geometry": {
         "type": "Point",
@@ -109,7 +109,7 @@ var data = [
         "photo": "",
         "source": "Goeres, Wings Over Nebraska. ",
         "": "",
-        "time": 1922
+        "time": "\"1922\""
       },
       "geometry": {
         "type": "Point",
@@ -133,7 +133,7 @@ var data = [
         "photo": "",
         "source": "Goeres, Wings Over Nebraska, p.49",
         "": "",
-        "time": 1924
+        "time": "\"1924\""
       },
       "geometry": {
         "type": "Point",
@@ -157,7 +157,7 @@ var data = [
         "photo": "",
         "source": "Kooiman, Aviation Development in Nebraska (2000)",
         "": "",
-        "time": 1924
+        "time": "\"1924\""
       },
       "geometry": {
         "type": "Point",
@@ -181,7 +181,7 @@ var data = [
         "photo": "",
         "source": "",
         "": "",
-        "time": 1928
+        "time": "\"1928\""
       },
       "geometry": {
         "type": "Point",
@@ -205,7 +205,7 @@ var data = [
         "photo": "",
         "source": "",
         "": "",
-        "time": 1928
+        "time": "\"1928\""
       },
       "geometry": {
         "type": "Point",
@@ -229,7 +229,7 @@ var data = [
         "photo": "",
         "source": "",
         "": "",
-        "time": 1929
+        "time": "\"1929\""
       },
       "geometry": {
         "type": "Point",
@@ -253,7 +253,7 @@ var data = [
         "photo": "",
         "source": "",
         "": "",
-        "time": 1930
+        "time": "\"1930\""
       },
       "geometry": {
         "type": "Point",
@@ -276,7 +276,7 @@ var data = [
         "endDate": 1971,
         "photo": "",
         "source": "“Room Space Still Available in Huskerville,” The Daily Nebraskan, 20 September 1946, p.4; “They are Moving In,” The Nebraska State Journal, Lincoln, Nebraska, 15 Sept. 1946, p. 3; “Huskerville Housing Open for Veterans,” The Daily Nebraskan, 26 September 1946, p. 1;  “Veterans’ Huskerville Boasts Own Facilities,” The Daily Nebraskan, 03 October 1946, p.4; “Housing Bureau Reveals Facilities,” The Daily Nebraskan, 08 December 1946, p. 1; “The Plight of Student Tenants,” The Daily Nebraskan, 19 May 1971, p. 3;  Lincoln Journal Star, 03 Oct. 1946; (Breanna Fanta, “1952 Huskerville Polio Outbreak,” History Nebraska).",
-        "time": 1946
+        "time": "\"1946\""
       },
       "geometry": {
         "type": "Point",
@@ -300,7 +300,7 @@ var data = [
         "photo": "",
         "source": "Branting, Lincoln Air Force Base Legacy Project; Branting, A Mighty Force for Peace, pp. 9-34; \"Officials welcome Offutt planes to temporary home: 'Lincoln Air Force Base,' Lincoln Journal Star, 16 April 2021; Goeres, 127-130.  ",
         "": "",
-        "time": 1954
+        "time": "\"1954\""
       },
       "geometry": {
         "type": "Point",
@@ -324,7 +324,7 @@ var data = [
         "photo": "",
         "source": "https://www.lincolnafb.org/BowlingLake.php; �Show Will Kickoff Dedication of Lake� Lincoln Sunday Journal and Star, 13 April 1958; �More or Less Personal,� Lincoln Evening Journal and Nebraska State Journal, 09 June 1958",
         "": "",
-        "time": 1957
+        "time": "\"1957\""
       },
       "geometry": {
         "type": "Point",
@@ -347,7 +347,7 @@ var data = [
         "endDate": "Present",
         "photo": "",
         "source": "Carothers' obituary from Lincoln Journal Star, Friday, 03 January 1986, p. 7; https://www.airnav.com/airport/NE59",
-        "time": 1964
+        "time": "\"1964\""
       },
       "geometry": {
         "type": "Point",
