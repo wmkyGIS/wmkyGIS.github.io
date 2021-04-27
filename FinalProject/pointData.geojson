@@ -15,7 +15,7 @@
         "photo": "",
         "source": "Goeres; Kooiman. ",
         "": "",
-        "time": "\"1901\""
+        "time": "1901"
       },
       "geometry": {
         "type": "Point",
@@ -39,7 +39,7 @@
         "photo": "",
         "source": "'University Students Will Build Airplanes' The Daily Nebraskan, 02 February 1920; �Dean Engberg Looks Down Upon University,� The Daily Nebraskan, 21 May 1920.",
         "": "",
-        "time": "\"1919\""
+        "time": "1919"
       },
       "geometry": {
         "type": "Point",
@@ -63,7 +63,7 @@
         "photo": "",
         "source": "Goeres, Wings Over Nebraska, p.49",
         "": "Goeres, Wings Over Nebraska. ",
-        "time": "\"1919\""
+        "time": "1919"
       },
       "geometry": {
         "type": "Point",
@@ -85,9 +85,9 @@
         "address": "1110 South 67th St., Douglas County, Omaha, NE, 68182",
         "endDate": 1935,
         "photo": "",
-        "source": "�Ak-Sar-Ben Field and the U.S. Air Mail,� Explore Nebraska History, accessed April 18, 2021, https://mynehistory.com/items/show/178.",
+        "source": "'Ak-Sar-Ben Field and the U.S. Air Mail,' Explore Nebraska History, accessed April 18, 2021, https://mynehistory.com/items/show/178.",
         "": "",
-        "time": "\"1920\""
+        "time": "1920"
       },
       "geometry": {
         "type": "Point",
@@ -111,7 +111,7 @@
         "photo": "",
         "source": "Goeres, Wings Over Nebraska. ",
         "": "",
-        "time": "\"1922\""
+        "time": "1922"
       },
       "geometry": {
         "type": "Point",
@@ -135,7 +135,7 @@
         "photo": "",
         "source": "Goeres, Wings Over Nebraska, p.49",
         "": "",
-        "time": "\"1924\""
+        "time": "1924"
       },
       "geometry": {
         "type": "Point",
@@ -152,14 +152,14 @@
         "marker-size": "medium",
         "marker-symbol": "airport",
         "name": "Offutt Air Force Base",
-        "description": "Fort Crook became home to 61st Balloon Company�the airfield portion�was designated Offutt Field�in honor of 1st Lt. Jarvis J. Offutt [who] was killed while flying with the Royal Air Force in France and was Omaha�s first World War I air casualty.",
+        "description": "'Fort Crook became home to 61st Balloon Company...the airfield portion was designated Offutt Field in honor of 1st Lt. Jarvis J. Offutt [who] was killed while flying with the Royal Air Force in France and was Omaha's first World War I air casualty.",
         "use": "airport",
         "address": "55th Wing Public Affairs Division 109 Washington Square, Suite 21 Offutt AFB, NE 68113",
         "endDate": "Present",
         "photo": "",
         "source": "Kooiman, Aviation Development in Nebraska (2000)",
         "": "",
-        "time": "\"1924\""
+        "time": "1924"
       },
       "geometry": {
         "type": "Point",
@@ -176,14 +176,14 @@
         "marker-size": "medium",
         "marker-symbol": "airport",
         "name": "Lincoln Municipal Airport",
-        "description": "Tract chosen in 1928; construction completed in 1929; dedication in 1930; Modern facility constructed in 1974",
+        "description": "After intense city-wide debate, this area of land northwest of Lincoln (known as the Flader Tract) was chosen in 1928 to provide the city with a formal airport with modern communication, lighting, and safety amenities. Construction took around one year to complete, and a carnivaliesque dedication ceremony christening the airport was held in June 1930. While the original terminal building no longer exists, the modern facility, which was constructed in 1974, still stands and is currently under renovation.",
         "use": "airport",
         "address": "2400 W Adams St, Lincoln, NE 68524",
         "endDate": "Present",
         "photo": "",
         "source": "",
         "": "",
-        "time": "\"1928\""
+        "time": "1928"
       },
       "geometry": {
         "type": "Point",
@@ -207,7 +207,7 @@
         "photo": "",
         "source": "",
         "": "",
-        "time": "\"1928\""
+        "time": "1928"
       },
       "geometry": {
         "type": "Point",
@@ -231,7 +231,7 @@
         "photo": "",
         "source": "",
         "": "",
-        "time": "\"1929\""
+        "time": "1929"
       },
       "geometry": {
         "type": "Point",
@@ -255,7 +255,7 @@
         "photo": "",
         "source": "",
         "": "",
-        "time": "\"1930\""
+        "time": "1930"
       },
       "geometry": {
         "type": "Point",
@@ -278,7 +278,7 @@
         "endDate": 1971,
         "photo": "",
         "source": "“Room Space Still Available in Huskerville,” The Daily Nebraskan, 20 September 1946, p.4; “They are Moving In,” The Nebraska State Journal, Lincoln, Nebraska, 15 Sept. 1946, p. 3; “Huskerville Housing Open for Veterans,” The Daily Nebraskan, 26 September 1946, p. 1;  “Veterans’ Huskerville Boasts Own Facilities,” The Daily Nebraskan, 03 October 1946, p.4; “Housing Bureau Reveals Facilities,” The Daily Nebraskan, 08 December 1946, p. 1; “The Plight of Student Tenants,” The Daily Nebraskan, 19 May 1971, p. 3;  Lincoln Journal Star, 03 Oct. 1946; (Breanna Fanta, “1952 Huskerville Polio Outbreak,” History Nebraska).",
-        "time": "\"1946\""
+        "time": "1946"
       },
       "geometry": {
         "type": "Point",
@@ -295,14 +295,14 @@
         "marker-size": "medium",
         "marker-symbol": "airport",
         "name": "Lincoln Army Airfield/Lincoln Air Force Base",
-        "description": "Lincoln – along with eleven other Nebraska towns – was home to an army airfield that trained mechanics, pilots, and flight crews starting in 1942. Despite being officially de-activated in 1945, the area still served in some military-related capacity between throughout the late 1940s and early 1950s.   In the early 1950s, the United States Air Force reactivated the former Lincoln Army Airfield. Infrastructural improvements were made to the now-outdated airfield. New barracks, mess halls, recreation facilities, warehouses, and weapons bunkers each signaled in their own way that the Cold War had come to Lincoln.  The base primarily housed particular types of bombers that would be deployed in the event of a nuclear attack, a program known as “nuclear deterrence.” In the 1960s, Lincoln witnessed a new level of Cold War omnipresence, even as commercial air traffic continued to flow out of Lincoln Municipal Airport.   For more information about the dynamic social life in and around LAFB, see Bowling Lake and Huskerville.  On April 16, 2021, the governor of Nebraska temporarily “reopened” the Lincoln Air Force Base to house the 55th Wing while the outfit’s traditional home, Offutt Air Force Base, undergoes a multi-million-dollar runway renovation. ",
+        "description": "Lincoln – along with eleven other Nebraska towns – was home to an army airfield that trained mechanics, pilots, and flight crews starting in 1942. Despite being officially de-activated in 1945, the area still served in some military-related capacity between throughout the late 1940s and early 1950s. In the early 1950s, the United States Air Force reactivated the former Lincoln Army Airfield. Infrastructural improvements were made to the now-outdated airfield. New barracks, mess halls, recreation facilities, warehouses, and weapons bunkers each signaled in their own way that the Cold War had come to Lincoln.  The base primarily housed particular types of bombers that would be deployed in the event of a nuclear attack, a program known as “nuclear deterrence.” In the 1960s, Lincoln witnessed a new level of Cold War omnipresence, even as commercial air traffic continued to flow out of Lincoln Municipal Airport.   For more information about the dynamic social life in and around LAFB, see Bowling Lake and Huskerville.  On April 16, 2021, the governor of Nebraska temporarily “reopened” the Lincoln Air Force Base to house the 55th Wing while the outfit’s traditional home, Offutt Air Force Base, undergoes a multi-million-dollar runway renovation. ",
         "use": "airport",
         "address": "Between present-day NW 48th and NW 47th Streets",
         "endDate": 1966,
         "photo": "",
         "source": "Branting, Lincoln Air Force Base Legacy Project; Branting, A Mighty Force for Peace, pp. 9-34; \"Officials welcome Offutt planes to temporary home: 'Lincoln Air Force Base,' Lincoln Journal Star, 16 April 2021; Goeres, 127-130.  ",
         "": "",
-        "time": "\"1954\""
+        "time": "1954"
       },
       "geometry": {
         "type": "Point",
@@ -319,14 +319,14 @@
         "marker-size": "medium",
         "marker-symbol": "land-use",
         "name": "Bowling Lake",
-        "description": "The northeast portion of Lincoln Air Force Base was transformed from a �dump� into a spot of �beauty� in the late 1950s. Air base officials billed the project as a Cold War necessity. While under construction, newspapers constantly reported Bowling Lake�s dual purpose: �[T]he recreation area is to provide on-base recreation and to aid in the retention of high skilled airmen, base officials say�Brig. Gen. Perry M. Hoisington II, 818th Air Division Commander, said the areas are needed due to the SAC [Strategic Air Command] alert concept which requires the men be constantly ready in the case of aggression.� Upon its completion in 1958, Bowling Lake hosted a star-studded �christening� ceremony, a four-day �Aqua-Air Show� extravaganza, and a solemn ceremony where the statue of Capt. Russell Bowling was unveiled by his family. ",
+        "description": "The northeast portion of Lincoln Air Force Base was transformed from a “dump” into a spot of “beauty” in the late 1950s. Air base officials billed the project as a Cold War necessity. While under construction, newspapers constantly reported Bowling Lake’s dual purpose: “[T]he recreation area is to provide on-base recreation and to aid in the retention of high skilled airmen, base officials say…Brig. Gen. Perry M. Hoisington II, 818th Air Division Commander, said the areas are needed due to the SAC [Strategic Air Command] alert concept which requires the men be constantly ready in the case of aggression.” Upon its completion in 1958, Bowling Lake hosted a star-studded “christening” ceremony, a four-day “Aqua-Air Show” extravaganza, and a solemn ceremony where the statue of Capt. Russell Bowling was unveiled by his family. ",
         "use": "landUse",
         "address": "NW 44th and Cuming St., Lincoln, NE, 68524",
         "endDate": "Present",
         "photo": "",
-        "source": "https://www.lincolnafb.org/BowlingLake.php; �Show Will Kickoff Dedication of Lake� Lincoln Sunday Journal and Star, 13 April 1958; �More or Less Personal,� Lincoln Evening Journal and Nebraska State Journal, 09 June 1958",
+        "source": "https://www.lincolnafb.org/BowlingLake.php; 'Show Will Kickoff Dedication of Lake,' Lincoln Sunday Journal and Star, 13 April 1958; 'More or Less Personal,' Lincoln Evening Journal and Nebraska State Journal, 09 June 1958",
         "": "",
-        "time": "\"1957\""
+        "time": "1957"
       },
       "geometry": {
         "type": "Point",
@@ -349,7 +349,7 @@
         "endDate": "Present",
         "photo": "",
         "source": "Carothers' obituary from Lincoln Journal Star, Friday, 03 January 1986, p. 7; https://www.airnav.com/airport/NE59",
-        "time": "\"1964\""
+        "time": "1964"
       },
       "geometry": {
         "type": "Point",
