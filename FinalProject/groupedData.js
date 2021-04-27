@@ -174,7 +174,7 @@ var data = [
         "marker-size": "medium",
         "marker-symbol": "airport",
         "name": "Lincoln Municipal Airport",
-        "description": "After intense city-wide debate, this area of land northwest of Lincoln (known as the Flader Tract) was chosen in 1928 to provide the city with a formal airport with modern communication, lighting, and safety amenities. Construction took around one year to complete, and a carnivaliesque dedication ceremony christening the airport was held in June 1930. While the original terminal building no longer exists, the modern facility, which was constructed in 1974, still stands and is currently under renovation.",
+        "description": "After intense city-wide debate, this area of land northwest of Lincoln (known as the Flader Tract) was chosen in 1928 to provide the city with a formal airport with modern communication, lighting, and safety amenities. Construction took around one year to complete, and a carnivaliesque dedication ceremony christening the airport was held in June 1930. While the original terminal building no longer exists, the modern facility, which was constructed in 1974, still stands and is currently under renovation",
         "use": "airport",
         "address": "2400 W Adams St, Lincoln, NE 68524",
         "endDate": "Present",
