@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Final Project</title>
+    <title>Historic Sites of Aviation in Lincoln, NE</title>
 
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -108,7 +108,7 @@
       if (feature.properties) {
         var prop = feature.properties;
         // make a cool little html popup with properties
-          var popup = '<strong>'+prop['name']+'<br><br>'+'</strong>'+'<strong>Date:</strong>'+' '+prop['time']+' - '+prop['endDate']+'<br><br>'+prop['description'];
+          var popup = '<strong>'+prop['name']+'<br><br>'+'</strong>'+'<strong>Date:</strong>'+' '+prop['time']+' - '+prop['endDate']+'<br><br>'+'<strong>Location:</strong>'+' '+prop['address']+'<br><br>'+'<strong>Description:</strong>'+'<br>'+prop['description']+'<br><br>'+'<strong>Sources:</strong>'+' '+prop['source'];
             // add known info about event to the description
           
         // you must create a layer property on each feature or else
