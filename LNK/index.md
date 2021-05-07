@@ -8,3 +8,5 @@ Lincoln Army Airfield
 Lincoln Air Force Base
 - [The 818th Air Division and Combat Support Group Headquarters](https://nebraskahistory.pastperfectonline.com/photo/5CE28F07-457A-4243-9918-661536140519)
 - [Del Harding Collection - RG1757](https://nebraskahistory.pastperfectonline.com/photo/19E57B7C-E07E-4667-8183-484934917813)
+
+[Paul N. Norton Painting](https://nebraskahistory.pastperfectonline.com/webobject/59999A06-D970-4B19-870C-116150321753)
