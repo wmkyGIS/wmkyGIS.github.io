@@ -12,3 +12,5 @@ Lincoln Air Force Base
 [Paul N. Norton Painting](https://nebraskahistory.pastperfectonline.com/webobject/59999A06-D970-4B19-870C-116150321753)
 
 ["Link Up With Lincoln...."](https://nebraskahistory.pastperfectonline.com/photo/6D11626E-4620-4A85-89FA-208052901554)
+
+[LAFB Air Show Footage; Bowling Lake](https://nebraskahistory.pastperfectonline.com/archive/86246D37-2F24-4DCB-9A7D-342025710921)
